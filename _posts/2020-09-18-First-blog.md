@@ -1,5 +1,5 @@
 ---
-description :"you are about to learn python opencv"
+description : "you are about to learn python opencv"
 ---
 # Python code
 ```
