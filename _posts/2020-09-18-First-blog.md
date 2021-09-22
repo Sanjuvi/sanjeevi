@@ -1,5 +1,5 @@
 ---
-Description: 'This is about to learn opencv'
+description: 'This is about to learn opencv'
 ---
 # Sanjeevi
 ```
