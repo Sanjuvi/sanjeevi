@@ -17,5 +17,5 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 ## About Me
-* I'm really passion about technology especially DeepLearning and ** Computer Vision **
+* I'm really passion about technology especially ***DeepLearning*** and ***Computer Vision***
 * And also to improve my own understanding & knowledge
