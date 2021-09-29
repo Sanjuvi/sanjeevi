@@ -20,4 +20,4 @@ You can find the source code for Jekyll at GitHub:
 
 * I'm really passion about technology especially ***DeepLearning*** and ***Computer Vision***
 * improve my own understanding & knowledge
-[Mail](mailto:sanjeevimani567@gmail.com)
+[Mail](target="_blank" mailto:sanjeevimani567@gmail.com)
