@@ -8,3 +8,6 @@ import numpy as np
 
 ```
 [use This Link to play with](https://colab.research.google.com/drive/1FhjIQAL-EoS2eq23GpPhGZ2zAGaic8_o?usp=sharing){:target="_blank"} Make Sure to have a copy of the document
+
+[Share This to Linkedin](https://www.linkedin.com/shareArticle?mini=true&url={articleUrl}&title={articleTitle}&summary={articleSummary}&source={articleSource}
+){target="_blank"}
