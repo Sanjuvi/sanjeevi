@@ -52,7 +52,7 @@ minima:
 #header_pages:
 # - about.md
 disqus:
-    shortname: https-sanjuvi-github-io-sanjeevi
+    shortname: #https-sanjuvi-github-io-sanjeevi
 # Build settings
 theme: minima
 
