@@ -1,6 +1,6 @@
 ---
-layout: page
-title : All The Posts 
+layout: home
+title : Posts
 permalink: /post/
 ---
 ## Posts
