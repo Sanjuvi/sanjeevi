@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title : All The Posts 
 permalink: /post/
 ---
