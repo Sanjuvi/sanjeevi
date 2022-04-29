@@ -19,7 +19,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll -->
 * Hi,I'm Sanjeevi
 
-**Default Language** : Tamil</br>
+**Default Language** : Tamil  
+
 **Foreign Language** :English
 
 * I'm really passion about technology especially ***DeepLearning*** and ***Computer Vision***
